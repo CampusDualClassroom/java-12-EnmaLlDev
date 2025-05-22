@@ -28,6 +28,7 @@ Se implementará el contenido de una clase básica, con sus atributos y métodos
   * Acelerar hasta intentar superar la velocidad máxima (y comprobar que no se puede)
   * Frenar la velocidad
   * Frenar hasta un valor negativo (y comprobar que no se puede)
+
   * Girar el volante 20 grados
   * Girar el volante más de 45 grados ó -45 grados (y comprobar que no se puede)
   * Detener el coche y poner marcha atrás
